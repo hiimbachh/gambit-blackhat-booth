@@ -1,0 +1,14 @@
+# Temporary Blender files and local tooling state
+*.blend1
+*.blend2
+*.blend@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.tools/
+.local/
+working/*
+!working/*.py
+!working/validation*.json
+# Active deliverables and ALL supplied references are versioned with Git LFS.

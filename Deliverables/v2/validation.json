@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "screen_surfaces": 26,
+  "photo_annotations_covered": 20,
+  "upper_blocks": 15,
+  "movie_files_resolve": true,
+  "movie_paths_relative": true,
+  "independent_screen_replacement": true,
+  "screen_helper_repeat_registration": true,
+  "screen_orientation_checked": true,
+  "optional_motion_metres_at_test_frame": 0.02048826208218277,
+  "objects": 320,
+  "mesh_faces": 2373,
+  "blender": "5.2.1 LTS",
+  "note": "Validation changes are intentionally not saved into the production blend."
+}
