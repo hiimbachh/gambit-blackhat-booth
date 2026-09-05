@@ -20,3 +20,8 @@
 - Fixed screen picker repeat registration and updated its embedded copy.
 - Created private hiimbachh/gambit-blackhat-booth repository and uploaded all 47 reference files with Git LFS (53 unique large assets including scene/renders).
 - Added persistent handoff, rebuild instructions and cross-machine workflow.
+
+## 2026-09-05 — Conversation continuity
+- Added a conversation summary covering the original brief, intended use, v1 feedback, reference-priority correction, screen intent, deferred real-time work, and cross-machine continuity.
+- Recorded that v2 visual fidelity has not yet been accepted by the user.
+- Updated AGENTS.md to maintain conversational context alongside work status after every session.
