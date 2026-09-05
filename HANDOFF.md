@@ -37,4 +37,6 @@ scripts/build_v2.py rebuilds from the supplied base blend and overwrites only De
 Git LFS is required for Blender, images, PDFs and movie files. The supplied reference folder is approximately 1.8 GB and includes old media variants intentionally. Keep its relative structure. Install Git LFS, clone the private repository, run git lfs pull, then open this root folder in the next session and ask it to read this file. Save, update logs, commit and push before switching machines. Pull before editing on another machine. Never edit the same binary blend concurrently.
 
 ## Publication status
-Local scene and verification complete. GitHub creation/upload is being finalized; do not assume the remote is synchronized until this section records verification.
+Private repository created: https://github.com/hiimbachh/gambit-blackhat-booth
+
+Initial scene commit 64863dcd7e61af3a1f5be388bc62f18637c885f2 was verified against remote main. Git LFS reported successful upload of all 53 unique objects (approximately 1.8 GB); all 47 supplied reference files are tracked. Local main tracks origin/main. This log update follows the successful upload. No new-machine clone has yet been tested.

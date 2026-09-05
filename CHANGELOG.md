@@ -14,3 +14,9 @@
 
 - Created editable presentation scene, three stills, linked movie screens, optional block movement, and cameras.
 - This version used provisional geometry and approximate branding. It is retained for historical comparison, not as the preferred reference for further work.
+
+## 2026-09-05 — Sync and validation completed
+- Saved-scene validation passed for all 26 screens, 20 photo annotations, independent media replacement and optional block movement.
+- Fixed screen picker repeat registration and updated its embedded copy.
+- Created private hiimbachh/gambit-blackhat-booth repository and uploaded all 47 reference files with Git LFS (53 unique large assets including scene/renders).
+- Added persistent handoff, rebuild instructions and cross-machine workflow.
