@@ -1,3 +1,21 @@
+# Current revision — 2026-09-07: opposing open station counters
+
+Active file: Deliverables/v4/Gambit_BlackHat_v4.blend. Derived directly from the user's latest edited v3. Earlier sections below are historical where they conflict.
+
+## Conversation update
+The user said the model is overall very good and reported their own main-booth edits. They requested a small station correction and the same handoff/GitHub workflow for another machine. After an ambiguous initial description, two red-marked photos clarified that EACH station needs two opposing counters, with open leg space underneath; the previous model had only one offset counter. This supersedes the earlier interpretation about removing a recessed decorative strip. Tall screen frames were not the requested change. The user has broadly accepted the earlier booth, but has not yet visually approved v4. Future real-time/web work remains deferred.
+
+## Work and preservation
+Replaced the solid cabinet bases and drawer strips with four open counters total, side supports, inner modesty panels and coral upper aprons. Retained counter height/width, both screen faces, station positions/orientations and tall frames. Counter depth and panel thickness are photo-based estimates. Preserved all 265 non-station objects' mesh geometry, world transforms and material assignments, including main-booth edits. Source v3 remains untouched and is included in this sync as the starting point. SHA-256: fea19e5c7a918e2ad7b763a02e40d528ceb0c56c5fdfe42124c7b0c66d5c8992.
+
+## Validation and next steps
+Deliverables/v4/validation.json and preservation.json record passing station, open-space, source-preservation, 26 independent screens, 20 annotation, relative movie, replacement helper and optional motion checks. Both new previews were visually reviewed. Temporary preview cameras are not saved over the user's camera setup. See 01_Station_detail.png and 02_Both_stations.png. Await user visual feedback; do not claim measured precision. The four new screenshots are saved under Ref Material/Feedback/2026-09-07.
+
+## Reproduction and sync
+Run scripts/revise_v4.py against the edited v3 with Blender. It replaces v4 outputs; preserve manual v4 edits first. Validate v4 with scripts/validate_v4.py, which does not save test mutations. Git LFS and the full relative reference structure remain required. Private repository: https://github.com/hiimbachh/gambit-blackhat-booth. Sync verification is recorded after upload.
+
+---
+
 # Current revision - 2026-09-05, second-machine feedback session
 
 Active file: Deliverables/v3/Gambit_BlackHat_v3.blend. Built by editing the user-modified v2, not rebuilding from the old source. V2 is preserved. The historical handoff below describes v2 where it differs.

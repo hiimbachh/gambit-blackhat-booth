@@ -1,0 +1,9 @@
+{
+  "source": "Deliverables\\v3\\Gambit_BlackHat_v3.blend",
+  "source_sha256": "fea19e5c7a918e2ad7b763a02e40d528ceb0c56c5fdfe42124c7b0c66d5c8992",
+  "preserved_non_station_objects": 265,
+  "non_station_objects_unchanged": true,
+  "countertops_per_station": 2,
+  "open_outer_knee_space": true,
+  "note": "Counter depth and panel thickness inferred from annotated photos. Existing worktop height and width retained."
+}

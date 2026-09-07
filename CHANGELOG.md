@@ -32,3 +32,9 @@
 - Retained user flower edits, demo orientations, expanded ground and removed machine.
 - Rendered three views and passed all screen/media/motion checks on reopened v3.
 - Visual acceptance pending; no GitHub upload performed.
+
+## 2026-09-07 — V4 opposing open station counters
+- Recorded user clarification: open leg space and two opposing counters per station, preserving main-booth edits.
+- Created v4 from edited v3; retained 265 non-station objects and source v3.
+- Passed saved-scene station/media/motion checks; reviewed two renders and preserved four new screenshots.
+- V4 visual acceptance remains pending.

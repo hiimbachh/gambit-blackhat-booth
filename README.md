@@ -2,7 +2,7 @@
 
 Editable Blender reconstruction of the built Gambit booth, prepared for still renders, replaceable looping screens, optional subtle block motion, and later real-time interaction.
 
-**Start with [HANDOFF.md](HANDOFF.md).** The active scene is `Deliverables/v2/Gambit_BlackHat_v2.blend`. The earlier v1 remains in Deliverables for comparison.
+**Start with [HANDOFF.md](HANDOFF.md).** The active scene is `Deliverables/v4/Gambit_BlackHat_v4.blend`. The earlier v1 remains in Deliverables for comparison.
 
 ## Use on another machine
 
