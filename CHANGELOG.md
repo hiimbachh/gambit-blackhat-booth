@@ -53,3 +53,4 @@
 - Purged zero-user materials/images and documented actual material sharing and static/movie assignments.
 - Archived generated conversions, local tools, scratch outputs and automatic backups; original references and prior deliverables retained.
 - New roof visual acceptance pending.
+- Sync completed: content commit 9e62970 and all 8 LFS objects (18 MB) uploaded successfully; confirmation recorded in handoff.

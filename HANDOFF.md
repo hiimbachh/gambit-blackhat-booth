@@ -2,6 +2,9 @@
 
 Active file: Deliverables/v4.1/Gambit_BlackHat_v4.1.blend. The user-edited v4 is preserved unchanged in Deliverables/v4. Historical sections below are superseded where they conflict.
 
+## Sync completed
+V4.1 content commit 9e62970 uploaded successfully on 2026-09-08, including all eight new/changed Git LFS objects (18 MB). The user-edited v4, new v4.1, reference screenshots, asset guide and preservation/timing checks are synchronized. Local cleanup archives are intentionally excluded. A small follow-up documentation commit records this confirmation.
+
 ## Conversation and accepted scope
 The user said the edited v4 is overall good. They changed some block finishes, corrected lower LED media, and intentionally replaced some animated screens with static materials. They explicitly requested keeping essentially everything the same, adding only the central stacked roof from the four onsite photos, organizing unused assets/files, updating the handoff and pushing GitHub. Three screenshots document the accepted material/media state under Ref Material/Feedback/2026-09-08. The user then specifically requested checking frame rate and full playback of the NEW roof media because older versions cut clips short, while leaving their existing timing adjustments unchanged.
 
@@ -113,3 +116,4 @@ Git LFS is required for Blender, images, PDFs and movie files. The supplied refe
 Private repository created: https://github.com/hiimbachh/gambit-blackhat-booth
 
 Initial scene commit 64863dcd7e61af3a1f5be388bc62f18637c885f2 was verified against remote main. Git LFS reported successful upload of all 53 unique objects (approximately 1.8 GB); all 47 supplied reference files are tracked. Local main tracks origin/main. This log update follows the successful upload. No new-machine clone has yet been tested.
+
