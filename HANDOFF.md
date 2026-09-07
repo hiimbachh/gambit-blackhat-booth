@@ -12,7 +12,7 @@ Replaced the solid cabinet bases and drawer strips with four open counters total
 Deliverables/v4/validation.json and preservation.json record passing station, open-space, source-preservation, 26 independent screens, 20 annotation, relative movie, replacement helper and optional motion checks. Both new previews were visually reviewed. Temporary preview cameras are not saved over the user's camera setup. See 01_Station_detail.png and 02_Both_stations.png. Await user visual feedback; do not claim measured precision. The four new screenshots are saved under Ref Material/Feedback/2026-09-07.
 
 ## Reproduction and sync
-Run scripts/revise_v4.py against the edited v3 with Blender. It replaces v4 outputs; preserve manual v4 edits first. Validate v4 with scripts/validate_v4.py, which does not save test mutations. Git LFS and the full relative reference structure remain required. Private repository: https://github.com/hiimbachh/gambit-blackhat-booth. Sync verification is recorded after upload.
+Run scripts/revise_v4.py against the edited v3 with Blender. It replaces v4 outputs; preserve manual v4 edits first. Validate v4 with scripts/validate_v4.py, which does not save test mutations. Git LFS and the full relative reference structure remain required. Private repository: https://github.com/hiimbachh/gambit-blackhat-booth. UPLOAD PENDING: scene commit b21ca8d was saved locally, but two push attempts timed out at GitHub and a subsequent remote check failed with Could not resolve host: github.com. No successful v4 upload has been confirmed. Once connectivity returns, run git push origin main and verify the remote commit before continuing on the other machine. Do not assume that the older GitHub scene contains these changes.
 
 ---
 

@@ -38,3 +38,5 @@
 - Created v4 from edited v3; retained 265 non-station objects and source v3.
 - Passed saved-scene station/media/motion checks; reviewed two renders and preserved four new screenshots.
 - V4 visual acceptance remains pending.
+
+- Sync blocked by GitHub connection timeouts and DNS failure; v4 committed locally, upload pending.
