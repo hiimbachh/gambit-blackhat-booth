@@ -25,3 +25,10 @@
 - Added a conversation summary covering the original brief, intended use, v1 feedback, reference-priority correction, screen intent, deferred real-time work, and cross-machine continuity.
 - Recorded that v2 visual fidelity has not yet been accepted by the user.
 - Updated AGENTS.md to maintain conversational context alongside work status after every session.
+
+## 2026-09-05 - V3 PDF feedback revision on second machine
+- Preserved the user-edited v2 and derived v3 from it.
+- Revised shelf/cabinet, bar interior, lower tower courses, demo frames and station spacing; aligned tablets.
+- Retained user flower edits, demo orientations, expanded ground and removed machine.
+- Rendered three views and passed all screen/media/motion checks on reopened v3.
+- Visual acceptance pending; no GitHub upload performed.

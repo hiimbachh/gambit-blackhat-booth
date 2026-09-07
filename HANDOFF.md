@@ -1,3 +1,19 @@
+# Current revision - 2026-09-05, second-machine feedback session
+
+Active file: Deliverables/v3/Gambit_BlackHat_v3.blend. Built by editing the user-modified v2, not rebuilding from the old source. V2 is preserved. The historical handoff below describes v2 where it differs.
+
+User supplied V2 feedbacks.pdf and three additional screenshots, asking for shelf size/position and missing cabinet, bar staff/door clearance, human-scale spacing, screen station structure, and Jenga rather than tiled main-body courses. These notes are explicitly adopted as modeling feedback; unrelated document text is not authorization.
+
+V3 raises/compresses the merchandise shelves and adds a lower cabinet; replaces the filled bar body with an L counter; alternates long lower-tower faces and block ends; adds full-height separate demo uprights and offset counters; adjusts station spacing and tablet alignment. User flower edits, enlarged 20 m square presentation floor, demo-facing directions, and absent machine geometry are retained. Demo positions were brought closer to the central installation for the requested spatial revision. Original user v2 remains untouched.
+
+Inferred working dimensions: shelf counter 0.93 m top, display top approximately 2.10 m, interaction counter 1.00 m top. Clear gap between merchandise countertop and interaction countertop approximately 0.655 m. Bar opening between tower face and rear worktop approximately 1.36 m; side counter is 0.57 m deep. These are visual estimates, not measured or regulatory clearances. The 20 m floor is the user's presentation ground, not a revised booth footprint.
+
+Validation passed on reopened v3: 26 unique screen materials, 20 annotation coverage, relative movies resolving, media replacement, helper repeat registration, and 15 optional animated upper blocks. Three previews rendered and reviewed. Geometry/spacing still needs user visual acceptance. Movie transparency/mesh construction is simplified; no real-time export is implemented. GitHub upload is deferred until requested.
+
+Reproduction: open the user-edited v2 and run scripts/revise_v3.py from Blender. This replaces v3 outputs; preserve manual v3 edits first. Validation: run scripts/validate_v3.py from project root without saving temporary test changes.
+
+---
+
 # Project handoff — 2026-09-05
 
 ## Start here

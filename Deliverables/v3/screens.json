@@ -1,0 +1,300 @@
+{
+  "version": 3,
+  "primary_reference": "Four on-site photos; user annotations supersede video",
+  "screens": [
+    {
+      "id": "01",
+      "object": "SCREEN_01 | Top blue end",
+      "label": "Top blue end",
+      "width_m": 0.48700000071525573,
+      "height_m": 0.4820000054836273,
+      "references": [
+        "I2.3",
+        "I4.8"
+      ],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED A/A1.mov",
+      "loop": true
+    },
+    {
+      "id": "02",
+      "object": "SCREEN_02 | Top opposite end",
+      "label": "Top opposite end",
+      "width_m": 0.48700000071525573,
+      "height_m": 0.4820000054836273,
+      "references": [],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED A/A1.mov",
+      "loop": true
+    },
+    {
+      "id": "03",
+      "object": "SCREEN_03 | Top long media face",
+      "label": "Top long media face",
+      "width_m": 1.4809999885559082,
+      "height_m": 0.4820000054836273,
+      "references": [],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED A/A2.mov",
+      "loop": true
+    },
+    {
+      "id": "04",
+      "object": "SCREEN_04 | Upper dotted long face - bar",
+      "label": "Upper dotted long face - bar",
+      "width_m": 1.4809999885559082,
+      "height_m": 0.4820000054836273,
+      "references": [
+        "I1.1",
+        "I2.4"
+      ],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED B/B2.mov",
+      "loop": true
+    },
+    {
+      "id": "05",
+      "object": "SCREEN_05 | Upper dotted long face - merchandise",
+      "label": "Upper dotted long face - merchandise",
+      "width_m": 1.4809999885559082,
+      "height_m": 0.4820000054836273,
+      "references": [
+        "I3.2",
+        "I4.6"
+      ],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED B/B2.mov",
+      "loop": true
+    },
+    {
+      "id": "06",
+      "object": "SCREEN_06 | Upper dotted return end",
+      "label": "Upper dotted return end",
+      "width_m": 0.48700000071525573,
+      "height_m": 0.4820000054836273,
+      "references": [
+        "I3.3"
+      ],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED B/B1.mov",
+      "loop": true
+    },
+    {
+      "id": "07",
+      "object": "SCREEN_07 | Red block animated long face",
+      "label": "Red block animated long face",
+      "width_m": 1.4809999885559082,
+      "height_m": 0.4820000054836273,
+      "references": [
+        "I2.2",
+        "I4.7"
+      ],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED C/C2.mov",
+      "loop": true
+    },
+    {
+      "id": "08",
+      "object": "SCREEN_08 | Red block animated return",
+      "label": "Red block animated return",
+      "width_m": 0.48700000071525573,
+      "height_m": 0.4820000054836273,
+      "references": [
+        "I1.2"
+      ],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED C/C1.mov",
+      "loop": true
+    },
+    {
+      "id": "09",
+      "object": "SCREEN_09 | Red block reverse media face",
+      "label": "Red block reverse media face",
+      "width_m": 1.4809999885559082,
+      "height_m": 0.4820000054836273,
+      "references": [],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED C/C2.mov",
+      "loop": true
+    },
+    {
+      "id": "10",
+      "object": "SCREEN_10 | Merchandise LED ribbon",
+      "label": "Merchandise LED ribbon",
+      "width_m": 1.54,
+      "height_m": 0.483,
+      "references": [
+        "I2.5",
+        "I3.1",
+        "I4.1"
+      ],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED E/E2.mov",
+      "loop": true
+    },
+    {
+      "id": "11",
+      "object": "SCREEN_11 | Merchandise ribbon return",
+      "label": "Merchandise ribbon return",
+      "width_m": 0.47,
+      "height_m": 0.483,
+      "references": [],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED E/E1.mov",
+      "loop": true
+    },
+    {
+      "id": "12",
+      "object": "SCREEN_12 | 65 inch main monitor",
+      "label": "65 inch main monitor",
+      "width_m": 1.422,
+      "height_m": 0.8,
+      "references": [
+        "I2.1"
+      ],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED A/A2.mov",
+      "loop": true
+    },
+    {
+      "id": "13",
+      "object": "SCREEN_13 | Bar counter LED front",
+      "label": "Bar counter LED front",
+      "width_m": 1.94,
+      "height_m": 0.46,
+      "references": [
+        "I1.3"
+      ],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED D/D2.mov",
+      "loop": true
+    },
+    {
+      "id": "14",
+      "object": "SCREEN_14 | Bar canopy long LED",
+      "label": "Bar canopy long LED",
+      "width_m": 0.63,
+      "height_m": 0.48,
+      "references": [
+        "I1.4"
+      ],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED E/E1.mov",
+      "loop": true
+    },
+    {
+      "id": "15",
+      "object": "SCREEN_15 | Bar canopy outer long LED",
+      "label": "Bar canopy outer long LED",
+      "width_m": 1.49,
+      "height_m": 0.48,
+      "references": [
+        "I4.2"
+      ],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED E/E2.mov",
+      "loop": true
+    },
+    {
+      "id": "16",
+      "object": "SCREEN_16 | Bar canopy return LED",
+      "label": "Bar canopy return LED",
+      "width_m": 0.63,
+      "height_m": 0.48,
+      "references": [
+        "I4.3"
+      ],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED E/E1.mov",
+      "loop": true
+    },
+    {
+      "id": "17",
+      "object": "SCREEN_17 | Interaction tablet 1",
+      "label": "Interaction tablet 1",
+      "width_m": 0.285,
+      "height_m": 0.411,
+      "references": [
+        "I4.5"
+      ],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/Mesh Screen/Mesh Screen.mov",
+      "loop": true
+    },
+    {
+      "id": "18",
+      "object": "SCREEN_18 | Interaction tablet 2",
+      "label": "Interaction tablet 2",
+      "width_m": 0.285,
+      "height_m": 0.411,
+      "references": [
+        "I4.4"
+      ],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/Mesh Screen/Mesh Screen.mov",
+      "loop": true
+    },
+    {
+      "id": "D1FP",
+      "object": "SCREEN_D1FP | Demo 1 portrait panel",
+      "label": "Demo 1 portrait panel",
+      "width_m": 0.927,
+      "height_m": 2.49,
+      "references": [],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/Mesh Screen/Mesh Screen.mov",
+      "loop": true
+    },
+    {
+      "id": "D1FM",
+      "object": "SCREEN_D1FM | Demo 1 monitor",
+      "label": "Demo 1 monitor",
+      "width_m": 1.058,
+      "height_m": 0.595,
+      "references": [],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED A/A2.mov",
+      "loop": true
+    },
+    {
+      "id": "D1RP",
+      "object": "SCREEN_D1RP | Demo 1 portrait panel",
+      "label": "Demo 1 portrait panel",
+      "width_m": 0.927,
+      "height_m": 2.49,
+      "references": [],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/Mesh Screen/Mesh Screen.mov",
+      "loop": true
+    },
+    {
+      "id": "D1RM",
+      "object": "SCREEN_D1RM | Demo 1 monitor",
+      "label": "Demo 1 monitor",
+      "width_m": 1.058,
+      "height_m": 0.595,
+      "references": [],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED A/A2.mov",
+      "loop": true
+    },
+    {
+      "id": "D2FP",
+      "object": "SCREEN_D2FP | Demo 2 portrait panel",
+      "label": "Demo 2 portrait panel",
+      "width_m": 0.927,
+      "height_m": 2.49,
+      "references": [],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/Mesh Screen/Mesh Screen.mov",
+      "loop": true
+    },
+    {
+      "id": "D2FM",
+      "object": "SCREEN_D2FM | Demo 2 monitor",
+      "label": "Demo 2 monitor",
+      "width_m": 1.058,
+      "height_m": 0.595,
+      "references": [],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED A/A2.mov",
+      "loop": true
+    },
+    {
+      "id": "D2RP",
+      "object": "SCREEN_D2RP | Demo 2 portrait panel",
+      "label": "Demo 2 portrait panel",
+      "width_m": 0.927,
+      "height_m": 2.49,
+      "references": [],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/Mesh Screen/Mesh Screen.mov",
+      "loop": true
+    },
+    {
+      "id": "D2RM",
+      "object": "SCREEN_D2RM | Demo 2 monitor",
+      "label": "Demo 2 monitor",
+      "width_m": 1.058,
+      "height_m": 0.595,
+      "references": [],
+      "media": "Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED A/A2.mov",
+      "loop": true
+    }
+  ]
+}
