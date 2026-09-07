@@ -40,3 +40,8 @@
 - V4 visual acceptance remains pending.
 
 - Sync blocked by GitHub connection timeouts and DNS failure; v4 committed locally, upload pending.
+
+## 2026-09-07 — Upload retry succeeded
+- At the user’s request, retried the push: both pending commits and 8 LFS objects (14 MB) uploaded successfully.
+- DNS resolved on retry. Prior connection timeouts and DNS failure indicate a temporary connectivity issue; exact cause is unconfirmed.
+- Updated handoff to supersede the previous pending-upload status.
