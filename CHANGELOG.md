@@ -45,3 +45,11 @@
 - At the user’s request, retried the push: both pending commits and 8 LFS objects (14 MB) uploaded successfully.
 - DNS resolved on retry. Prior connection timeouts and DNS failure indicate a temporary connectivity issue; exact cause is unconfirmed.
 - Updated handoff to supersede the previous pending-upload status.
+
+## 2026-09-08 - V4.1 roof and cleanup
+- User accepted the edited v4 booth and requested a roof-only addition, cleanup, handoff and GitHub sync.
+- Added ten roof bars and eight LED faces; preserved all 268 non-roof objects and their material/media choices.
+- Verified new 60 fps roof clips at full lengths of 602 or 420 frames and tested rendered loop boundaries. Existing timing remains unchanged.
+- Purged zero-user materials/images and documented actual material sharing and static/movie assignments.
+- Archived generated conversions, local tools, scratch outputs and automatic backups; original references and prior deliverables retained.
+- New roof visual acceptance pending.

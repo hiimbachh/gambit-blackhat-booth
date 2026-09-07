@@ -1,3 +1,26 @@
+# Current revision - 2026-09-08: v4.1 roof addition and asset cleanup
+
+Active file: Deliverables/v4.1/Gambit_BlackHat_v4.1.blend. The user-edited v4 is preserved unchanged in Deliverables/v4. Historical sections below are superseded where they conflict.
+
+## Conversation and accepted scope
+The user said the edited v4 is overall good. They changed some block finishes, corrected lower LED media, and intentionally replaced some animated screens with static materials. They explicitly requested keeping essentially everything the same, adding only the central stacked roof from the four onsite photos, organizing unused assets/files, updating the handoff and pushing GitHub. Three screenshots document the accepted material/media state under Ref Material/Feedback/2026-09-08. The user then specifically requested checking frame rate and full playback of the NEW roof media because older versions cut clips short, while leaving their existing timing adjustments unchanged.
+
+## Work and preservation
+Added ten individual roof bars in five alternating courses, with eight replaceable LED faces using the supplied A1 logo, D1/D2 red and E1/E2 dotted clips. Four orphaned old roof screen planes were relocated from floor level and assigned appropriate roof clips. All 268 non-roof objects retain mesh/curve geometry, world transforms, parent relationships, visibility, material assignments, shader inputs and movie playback settings. The user's 60 fps, frames 1-720, and saved camera/render configuration remain intact. Optional roof movement uses the existing control and stays off by default.
+
+Purged 12 zero-user materials and 15 zero-user image datablocks after creating the roof. No used non-roof material was merged or renamed. Current assets.json and screens.json reflect actual static/movie assignments and intentional sharing; legacy duplicate IDs remain, so use full object names. Do not run the old blanket 26-movie-screen validator on this revision: the user intentionally removed some media.
+
+## Timing and validation
+The new source clips are native 60 fps, matching the scene. A1 uses all 602 frames (10.033 seconds); D1/D2/E1/E2 use all 420 frames (7 seconds). New image users start at 1, offset 0, cyclic and auto-refresh on. Existing timing, including 720-frame grid loops, is preserved. Reopened-scene validation and rendered end-frame/restart checks are recorded in validation.json and loop_boundary_check.json. Preservation baseline and audit are included. Three preview renders cover both roof sides and the overall booth. User visual acceptance of the new roof is pending; spacing and unseen dimensions are photo-based estimates, not measured fabrication geometry.
+
+## Cleanup and organization
+See docs/ASSETS.md and docs/cleanup-manifest.json. Unused generated GIF/PNG conversions, FFmpeg tooling, scratch previews and automatic backups are archived intact under .local/cleanup-archive-2026-09-08 and excluded from Git. The archive totals about 2.22 GiB and is recoverable locally; this frees clutter rather than disk space. All original supplied references, MOV media, earlier deliverables and scripts remain available. Version folders are deliberately stable so relative media paths and historical reproduction scripts continue to work.
+
+## Reproduction and sync
+scripts/revise_v41.py derives this revision from the user-edited v4, never from an earlier generated scene. It overwrites v4.1 outputs; back up future manual edits before running it. scripts/validate_v41.py verifies preservation, timing and motion. scripts/check_roof_loop.py decodes boundary frames in a disposable scene and does not save test mutations. GitHub sync is explicitly authorized for this session; repository remains private under hiimbachh/gambit-blackhat-booth. Pull with Git LFS before editing on another machine. Future web/real-time work remains deferred.
+
+---
+
 # Current revision — 2026-09-07: opposing open station counters
 
 Active file: Deliverables/v4/Gambit_BlackHat_v4.blend. Derived directly from the user's latest edited v3. Earlier sections below are historical where they conflict.

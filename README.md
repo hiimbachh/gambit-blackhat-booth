@@ -1,3 +1,9 @@
+# Current deliverable: v4.1
+
+Open Deliverables/v4.1/Gambit_BlackHat_v4.1.blend. This preserves the user-edited v4 booth and adds the central roof. See [HANDOFF.md](HANDOFF.md) for current status and [docs/ASSETS.md](docs/ASSETS.md) for materials, clip timing and folder organization. Earlier version instructions below are historical.
+
+---
+
 # Gambit BlackHat Booth
 
 Editable Blender reconstruction of the built Gambit booth, prepared for still renders, replaceable looping screens, optional subtle block motion, and later real-time interaction.

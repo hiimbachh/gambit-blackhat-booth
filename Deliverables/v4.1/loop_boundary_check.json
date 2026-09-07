@@ -1,0 +1,253 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "material": "Roof media | 02 | A1",
+      "clip": "A1.mov.002",
+      "frames": 602,
+      "samples": [
+        {
+          "test": "start",
+          "timeline_frame": 1,
+          "offset": 0,
+          "decoded_pixel_sha256": "7193b907db0f38c686aec5140b210e5db383039ad6e7c77a11542b893da69120"
+        },
+        {
+          "test": "last",
+          "timeline_frame": 602,
+          "offset": 0,
+          "decoded_pixel_sha256": "ea68c1168d2c33ff9bc0ba2372e414a23ae824921558f76b560df4a6f4b57db9"
+        },
+        {
+          "test": "restart",
+          "timeline_frame": 603,
+          "offset": 0,
+          "decoded_pixel_sha256": "7193b907db0f38c686aec5140b210e5db383039ad6e7c77a11542b893da69120"
+        },
+        {
+          "test": "last_reference",
+          "timeline_frame": 1,
+          "offset": 601,
+          "decoded_pixel_sha256": "ea68c1168d2c33ff9bc0ba2372e414a23ae824921558f76b560df4a6f4b57db9"
+        }
+      ]
+    },
+    {
+      "material": "Roof media | R01 | A1",
+      "clip": "A1.mov.003",
+      "frames": 602,
+      "samples": [
+        {
+          "test": "start",
+          "timeline_frame": 1,
+          "offset": 0,
+          "decoded_pixel_sha256": "7193b907db0f38c686aec5140b210e5db383039ad6e7c77a11542b893da69120"
+        },
+        {
+          "test": "last",
+          "timeline_frame": 602,
+          "offset": 0,
+          "decoded_pixel_sha256": "ea68c1168d2c33ff9bc0ba2372e414a23ae824921558f76b560df4a6f4b57db9"
+        },
+        {
+          "test": "restart",
+          "timeline_frame": 603,
+          "offset": 0,
+          "decoded_pixel_sha256": "7193b907db0f38c686aec5140b210e5db383039ad6e7c77a11542b893da69120"
+        },
+        {
+          "test": "last_reference",
+          "timeline_frame": 1,
+          "offset": 601,
+          "decoded_pixel_sha256": "ea68c1168d2c33ff9bc0ba2372e414a23ae824921558f76b560df4a6f4b57db9"
+        }
+      ]
+    },
+    {
+      "material": "Roof media | 04 | E2",
+      "clip": "E2.mov.001",
+      "frames": 420,
+      "samples": [
+        {
+          "test": "start",
+          "timeline_frame": 1,
+          "offset": 0,
+          "decoded_pixel_sha256": "8134d974b67179c963aa6b729185258063df66b56b7a385c6bc4478bf3d3737d"
+        },
+        {
+          "test": "last",
+          "timeline_frame": 420,
+          "offset": 0,
+          "decoded_pixel_sha256": "e1365242cf11800117861903a92cd671453365d50dc2c52520c5270ae9ba575b"
+        },
+        {
+          "test": "restart",
+          "timeline_frame": 421,
+          "offset": 0,
+          "decoded_pixel_sha256": "8134d974b67179c963aa6b729185258063df66b56b7a385c6bc4478bf3d3737d"
+        },
+        {
+          "test": "last_reference",
+          "timeline_frame": 1,
+          "offset": 419,
+          "decoded_pixel_sha256": "e1365242cf11800117861903a92cd671453365d50dc2c52520c5270ae9ba575b"
+        }
+      ]
+    },
+    {
+      "material": "Roof media | 06 | E1",
+      "clip": "E1.mov.001",
+      "frames": 420,
+      "samples": [
+        {
+          "test": "start",
+          "timeline_frame": 1,
+          "offset": 0,
+          "decoded_pixel_sha256": "450effa7fb2bb7770f4625490c8faa81f4210f51a14075fa8f29ab500ab69458"
+        },
+        {
+          "test": "last",
+          "timeline_frame": 420,
+          "offset": 0,
+          "decoded_pixel_sha256": "6ae7fba9b16810c6452b3f5bbde5602fa5646a8ff149242b4f3e3b6f737751b7"
+        },
+        {
+          "test": "restart",
+          "timeline_frame": 421,
+          "offset": 0,
+          "decoded_pixel_sha256": "450effa7fb2bb7770f4625490c8faa81f4210f51a14075fa8f29ab500ab69458"
+        },
+        {
+          "test": "last_reference",
+          "timeline_frame": 1,
+          "offset": 419,
+          "decoded_pixel_sha256": "6ae7fba9b16810c6452b3f5bbde5602fa5646a8ff149242b4f3e3b6f737751b7"
+        }
+      ]
+    },
+    {
+      "material": "Roof media | R05 | E2",
+      "clip": "E2.mov.002",
+      "frames": 420,
+      "samples": [
+        {
+          "test": "start",
+          "timeline_frame": 1,
+          "offset": 0,
+          "decoded_pixel_sha256": "8134d974b67179c963aa6b729185258063df66b56b7a385c6bc4478bf3d3737d"
+        },
+        {
+          "test": "last",
+          "timeline_frame": 420,
+          "offset": 0,
+          "decoded_pixel_sha256": "e1365242cf11800117861903a92cd671453365d50dc2c52520c5270ae9ba575b"
+        },
+        {
+          "test": "restart",
+          "timeline_frame": 421,
+          "offset": 0,
+          "decoded_pixel_sha256": "8134d974b67179c963aa6b729185258063df66b56b7a385c6bc4478bf3d3737d"
+        },
+        {
+          "test": "last_reference",
+          "timeline_frame": 1,
+          "offset": 419,
+          "decoded_pixel_sha256": "e1365242cf11800117861903a92cd671453365d50dc2c52520c5270ae9ba575b"
+        }
+      ]
+    },
+    {
+      "material": "Roof media | R06 | E1",
+      "clip": "E1.mov.003",
+      "frames": 420,
+      "samples": [
+        {
+          "test": "start",
+          "timeline_frame": 1,
+          "offset": 0,
+          "decoded_pixel_sha256": "450effa7fb2bb7770f4625490c8faa81f4210f51a14075fa8f29ab500ab69458"
+        },
+        {
+          "test": "last",
+          "timeline_frame": 420,
+          "offset": 0,
+          "decoded_pixel_sha256": "6ae7fba9b16810c6452b3f5bbde5602fa5646a8ff149242b4f3e3b6f737751b7"
+        },
+        {
+          "test": "restart",
+          "timeline_frame": 421,
+          "offset": 0,
+          "decoded_pixel_sha256": "450effa7fb2bb7770f4625490c8faa81f4210f51a14075fa8f29ab500ab69458"
+        },
+        {
+          "test": "last_reference",
+          "timeline_frame": 1,
+          "offset": 419,
+          "decoded_pixel_sha256": "6ae7fba9b16810c6452b3f5bbde5602fa5646a8ff149242b4f3e3b6f737751b7"
+        }
+      ]
+    },
+    {
+      "material": "Roof media | 08 | D2",
+      "clip": "D2.mov",
+      "frames": 420,
+      "samples": [
+        {
+          "test": "start",
+          "timeline_frame": 1,
+          "offset": 0,
+          "decoded_pixel_sha256": "8134d974b67179c963aa6b729185258063df66b56b7a385c6bc4478bf3d3737d"
+        },
+        {
+          "test": "last",
+          "timeline_frame": 420,
+          "offset": 0,
+          "decoded_pixel_sha256": "e1365242cf11800117861903a92cd671453365d50dc2c52520c5270ae9ba575b"
+        },
+        {
+          "test": "restart",
+          "timeline_frame": 421,
+          "offset": 0,
+          "decoded_pixel_sha256": "8134d974b67179c963aa6b729185258063df66b56b7a385c6bc4478bf3d3737d"
+        },
+        {
+          "test": "last_reference",
+          "timeline_frame": 1,
+          "offset": 419,
+          "decoded_pixel_sha256": "e1365242cf11800117861903a92cd671453365d50dc2c52520c5270ae9ba575b"
+        }
+      ]
+    },
+    {
+      "material": "Roof media | R07 | D1",
+      "clip": "D1.mov",
+      "frames": 420,
+      "samples": [
+        {
+          "test": "start",
+          "timeline_frame": 1,
+          "offset": 0,
+          "decoded_pixel_sha256": "5764af6de7f82903e237e89631d437a92eae63c2517a0758978f0c9aa7ec9b63"
+        },
+        {
+          "test": "last",
+          "timeline_frame": 420,
+          "offset": 0,
+          "decoded_pixel_sha256": "4c3f8b104a6c5d5f9d4d91e0bc4768855566320b357bda5e65b63dc408a23865"
+        },
+        {
+          "test": "restart",
+          "timeline_frame": 421,
+          "offset": 0,
+          "decoded_pixel_sha256": "5764af6de7f82903e237e89631d437a92eae63c2517a0758978f0c9aa7ec9b63"
+        },
+        {
+          "test": "last_reference",
+          "timeline_frame": 1,
+          "offset": 419,
+          "decoded_pixel_sha256": "4c3f8b104a6c5d5f9d4d91e0bc4768855566320b357bda5e65b63dc408a23865"
+        }
+      ]
+    }
+  ]
+}

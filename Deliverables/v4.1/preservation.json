@@ -1,0 +1,51 @@
+{
+  "source": "Deliverables/v4/Gambit_BlackHat_v4.blend",
+  "source_sha256": "f10d8f36093ba0035224a159d917b62b9d9db2a7aa0431e15e3ad14959426155",
+  "preserved_objects": 268,
+  "all_non_roof_objects_unchanged": true,
+  "roof_objects_repositioned": [
+    "SCREEN_02 | Top opposite end",
+    "SCREEN_04 | Upper dotted long face - bar",
+    "SCREEN_06 | Upper dotted return end",
+    "SCREEN_08 | Red block animated return"
+  ],
+  "roof_blocks": 10,
+  "roof_media_faces": 8,
+  "removed_zero_user_data": {
+    "meshes": [],
+    "curves": [],
+    "materials": [
+      "MEDIA_01",
+      "MEDIA_02",
+      "MEDIA_03",
+      "MEDIA_04",
+      "MEDIA_05",
+      "MEDIA_06",
+      "MEDIA_07",
+      "MEDIA_08",
+      "MEDIA_09",
+      "MEDIA_10",
+      "MEDIA_11",
+      "MEDIA_16"
+    ],
+    "images": [
+      "A1.mov.001",
+      "A2.mov",
+      "A2.mov.002",
+      "A2.mov.003",
+      "A2.mov.004",
+      "A2.mov.005",
+      "B2.mov.001",
+      "C1.mov",
+      "C2.mov",
+      "C2.mov.001",
+      "E1.mov",
+      "E1.mov.002",
+      "E2.mov",
+      "Mesh Screen.mov",
+      "Mesh Screen.mov.001"
+    ],
+    "node_groups": []
+  },
+  "note": "Photo-inferred roof spacing. Used non-roof materials and all existing non-roof media/static choices preserved."
+}

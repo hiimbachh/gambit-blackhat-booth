@@ -1,0 +1,146 @@
+{
+  "status": "passed",
+  "preserved_non_roof_objects": 268,
+  "non_roof_geometry_transforms_materials_and_playback_unchanged": true,
+  "roof_blocks": 10,
+  "new_roof_display_faces": 8,
+  "scene_fps": 60.0,
+  "scene_timeline": [
+    1,
+    720
+  ],
+  "roof_clip_timing": [
+    {
+      "object": "SCREEN_02 | Top opposite end",
+      "clip": "A1.mov",
+      "frames": 602,
+      "fps": 60.0,
+      "duration_seconds": 10.033333333333333,
+      "constant_frame_rate": true,
+      "timescale": 60,
+      "sample_ticks": [
+        [
+          602,
+          1
+        ]
+      ],
+      "configured_frames": 602
+    },
+    {
+      "object": "SCREEN_R01 | Top blue logo end",
+      "clip": "A1.mov",
+      "frames": 602,
+      "fps": 60.0,
+      "duration_seconds": 10.033333333333333,
+      "constant_frame_rate": true,
+      "timescale": 60,
+      "sample_ticks": [
+        [
+          602,
+          1
+        ]
+      ],
+      "configured_frames": 602
+    },
+    {
+      "object": "SCREEN_04 | Upper dotted long face - bar",
+      "clip": "E2.mov",
+      "frames": 420,
+      "fps": 60.0,
+      "duration_seconds": 7.0,
+      "constant_frame_rate": true,
+      "timescale": 60,
+      "sample_ticks": [
+        [
+          420,
+          1
+        ]
+      ],
+      "configured_frames": 420
+    },
+    {
+      "object": "SCREEN_06 | Upper dotted return end",
+      "clip": "E1.mov",
+      "frames": 420,
+      "fps": 60.0,
+      "duration_seconds": 7.0,
+      "constant_frame_rate": true,
+      "timescale": 60,
+      "sample_ticks": [
+        [
+          420,
+          1
+        ]
+      ],
+      "configured_frames": 420
+    },
+    {
+      "object": "SCREEN_R05 | Upper dotted merchandise long face",
+      "clip": "E2.mov",
+      "frames": 420,
+      "fps": 60.0,
+      "duration_seconds": 7.0,
+      "constant_frame_rate": true,
+      "timescale": 60,
+      "sample_ticks": [
+        [
+          420,
+          1
+        ]
+      ],
+      "configured_frames": 420
+    },
+    {
+      "object": "SCREEN_R06 | Upper dotted bar-side return",
+      "clip": "E1.mov",
+      "frames": 420,
+      "fps": 60.0,
+      "duration_seconds": 7.0,
+      "constant_frame_rate": true,
+      "timescale": 60,
+      "sample_ticks": [
+        [
+          420,
+          1
+        ]
+      ],
+      "configured_frames": 420
+    },
+    {
+      "object": "SCREEN_08 | Red block animated return",
+      "clip": "D2.mov",
+      "frames": 420,
+      "fps": 60.0,
+      "duration_seconds": 7.0,
+      "constant_frame_rate": true,
+      "timescale": 60,
+      "sample_ticks": [
+        [
+          420,
+          1
+        ]
+      ],
+      "configured_frames": 420
+    },
+    {
+      "object": "SCREEN_R07 | Red animated long face",
+      "clip": "D1.mov",
+      "frames": 420,
+      "fps": 60.0,
+      "duration_seconds": 7.0,
+      "constant_frame_rate": true,
+      "timescale": 60,
+      "sample_ticks": [
+        [
+          420,
+          1
+        ]
+      ],
+      "configured_frames": 420
+    }
+  ],
+  "relative_media_resolves": true,
+  "unused_materials_remaining": 0,
+  "optional_roof_motion_metres": 0.02048826208218277,
+  "note": "Validation mutations are not saved. Existing static and shared materials intentionally retained."
+}
