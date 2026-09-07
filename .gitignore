@@ -2,13 +2,34 @@
 *.blend1
 *.blend2
 *.blend@
+*.blend~
+*.tmp
+
+# Blender / thumbnail caches
+.thumbnails/
+**/.thumbnails/
+
+# Python cache
 __pycache__/
 *.pyc
-.DS_Store
+
+# Windows junk
 Thumbs.db
+Desktop.ini
+
+# macOS junk
+.DS_Store
+
+# Local tooling
 .tools/
 .local/
-working/*
-!working/*.py
+
+# Working folder:
+# Ignore everything in working/
+working/**
+
+# ...except Python scripts and validation JSON files
+!working/**/*.py
 !working/validation*.json
+
 # Active deliverables and ALL supplied references are versioned with Git LFS.
