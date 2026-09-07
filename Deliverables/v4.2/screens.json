@@ -1,0 +1,249 @@
+{
+  "version": "4.2",
+  "screens": [
+    {
+      "id": "12",
+      "object": "SCREEN_12 | 65 inch main monitor",
+      "label": "65 inch main monitor",
+      "material": "Gambit | Light pink",
+      "mode": "static",
+      "media": null,
+      "material_shared": true
+    },
+    {
+      "id": "13",
+      "object": "SCREEN_13 | Bar counter LED front",
+      "label": "Bar counter LED front",
+      "material": "MEDIA_12",
+      "mode": "movie",
+      "media": "//..\\..\\Ref Material\\LED For Booth + Mesh Screen (BlackHat USA 2026)\\LED For Booth\\LED A\\A2.mov",
+      "material_shared": false
+    },
+    {
+      "id": "13",
+      "object": "SCREEN_13 | Bar counter LED front.001",
+      "label": "Bar counter LED front",
+      "material": "MEDIA_13",
+      "mode": "movie",
+      "media": "//..\\..\\Ref Material\\LED For Booth + Mesh Screen (BlackHat USA 2026)\\LED For Booth\\LED A\\A1.mov",
+      "material_shared": false
+    },
+    {
+      "id": "14",
+      "object": "SCREEN_14 | Bar canopy long LED.001",
+      "label": "Bar canopy long LED",
+      "material": "MEDIA_14",
+      "mode": "movie",
+      "media": "//..\\..\\Ref Material\\LED For Booth + Mesh Screen (BlackHat USA 2026)\\LED For Booth\\LED B\\B2.mov",
+      "material_shared": true
+    },
+    {
+      "id": "15",
+      "object": "SCREEN_15 | Bar canopy outer long LED.001",
+      "label": "Bar canopy outer long LED",
+      "material": "MEDIA_15",
+      "mode": "movie",
+      "media": "//..\\..\\Ref Material\\LED For Booth + Mesh Screen (BlackHat USA 2026)\\LED For Booth\\LED B\\B1.mov",
+      "material_shared": true
+    },
+    {
+      "id": "14",
+      "object": "SCREEN_14 | Bar canopy long LED.002",
+      "label": "Bar canopy long LED",
+      "material": "MEDIA_14",
+      "mode": "movie",
+      "media": "//..\\..\\Ref Material\\LED For Booth + Mesh Screen (BlackHat USA 2026)\\LED For Booth\\LED B\\B2.mov",
+      "material_shared": true
+    },
+    {
+      "id": "15",
+      "object": "SCREEN_15 | Bar canopy outer long LED.002",
+      "label": "Bar canopy outer long LED",
+      "material": "MEDIA_15",
+      "mode": "movie",
+      "media": "//..\\..\\Ref Material\\LED For Booth + Mesh Screen (BlackHat USA 2026)\\LED For Booth\\LED B\\B1.mov",
+      "material_shared": true
+    },
+    {
+      "id": "14",
+      "object": "SCREEN_14 | Bar canopy long LED.003",
+      "label": "Bar canopy long LED",
+      "material": "MEDIA_14",
+      "mode": "movie",
+      "media": "//..\\..\\Ref Material\\LED For Booth + Mesh Screen (BlackHat USA 2026)\\LED For Booth\\LED B\\B2.mov",
+      "material_shared": true
+    },
+    {
+      "id": "15",
+      "object": "SCREEN_15 | Bar canopy outer long LED.003",
+      "label": "Bar canopy outer long LED",
+      "material": "MEDIA_15",
+      "mode": "movie",
+      "media": "//..\\..\\Ref Material\\LED For Booth + Mesh Screen (BlackHat USA 2026)\\LED For Booth\\LED B\\B1.mov",
+      "material_shared": true
+    },
+    {
+      "id": "D1FP",
+      "object": "SCREEN_D1FP | Demo 1 portrait panel",
+      "label": "Demo 1 portrait panel",
+      "material": "MEDIA_D1FP",
+      "mode": "movie",
+      "media": "//..\\..\\Ref Material\\LED For Booth + Mesh Screen (BlackHat USA 2026)\\Mesh Screen\\Mesh Screen.mov",
+      "material_shared": false
+    },
+    {
+      "id": "D1FM",
+      "object": "SCREEN_D1FM | Demo 1 monitor",
+      "label": "Demo 1 monitor",
+      "material": "Gambit | Light pink",
+      "mode": "static",
+      "media": null,
+      "material_shared": true
+    },
+    {
+      "id": "D1RP",
+      "object": "SCREEN_D1RP | Demo 1 portrait panel",
+      "label": "Demo 1 portrait panel",
+      "material": "MEDIA_D1RP",
+      "mode": "movie",
+      "media": "//..\\..\\Ref Material\\LED For Booth + Mesh Screen (BlackHat USA 2026)\\Mesh Screen\\Mesh Screen.mov",
+      "material_shared": false
+    },
+    {
+      "id": "D1RM",
+      "object": "SCREEN_D1RM | Demo 1 monitor",
+      "label": "Demo 1 monitor",
+      "material": "Gambit | Light pink",
+      "mode": "static",
+      "media": null,
+      "material_shared": true
+    },
+    {
+      "id": "D2FP",
+      "object": "SCREEN_D2FP | Demo 2 portrait panel",
+      "label": "Demo 2 portrait panel",
+      "material": "MEDIA_D2FP",
+      "mode": "movie",
+      "media": "//..\\..\\Ref Material\\LED For Booth + Mesh Screen (BlackHat USA 2026)\\Mesh Screen\\Mesh Screen.mov",
+      "material_shared": false
+    },
+    {
+      "id": "D2FM",
+      "object": "SCREEN_D2FM | Demo 2 monitor",
+      "label": "Demo 2 monitor",
+      "material": "Gambit | Light pink",
+      "mode": "static",
+      "media": null,
+      "material_shared": true
+    },
+    {
+      "id": "D2RP",
+      "object": "SCREEN_D2RP | Demo 2 portrait panel",
+      "label": "Demo 2 portrait panel",
+      "material": "MEDIA_D2RP",
+      "mode": "movie",
+      "media": "//..\\..\\Ref Material\\LED For Booth + Mesh Screen (BlackHat USA 2026)\\Mesh Screen\\Mesh Screen.mov",
+      "material_shared": false
+    },
+    {
+      "id": "D2RM",
+      "object": "SCREEN_D2RM | Demo 2 monitor",
+      "label": "Demo 2 monitor",
+      "material": "Gambit | Light pink",
+      "mode": "static",
+      "media": null,
+      "material_shared": true
+    },
+    {
+      "id": "17",
+      "object": "SCREEN_17 | Interaction tablet 1",
+      "label": "Interaction tablet 1",
+      "material": "Gambit | Warm pink",
+      "mode": "static",
+      "media": null,
+      "material_shared": true
+    },
+    {
+      "id": "18",
+      "object": "SCREEN_18 | Interaction tablet 2",
+      "label": "Interaction tablet 2",
+      "material": "Gambit | Warm pink",
+      "mode": "static",
+      "media": null,
+      "material_shared": true
+    },
+    {
+      "id": "02",
+      "object": "SCREEN_02 | Top opposite end",
+      "label": "Top blue opposite logo",
+      "material": "Roof media | 02 | A1",
+      "mode": "movie",
+      "media": "//../../Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED A/A1.mov",
+      "material_shared": false
+    },
+    {
+      "id": "R01",
+      "object": "SCREEN_R01 | Top blue logo end",
+      "label": "Top blue logo end",
+      "material": "Roof media | R01 | A1",
+      "mode": "movie",
+      "media": "//../../Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED A/A1.mov",
+      "material_shared": false
+    },
+    {
+      "id": "04",
+      "object": "SCREEN_04 | Upper dotted long face - bar",
+      "label": "Upper dotted bar-side long face",
+      "material": "Roof media | 04 | E2",
+      "mode": "movie",
+      "media": "//../../Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED E/E2.mov",
+      "material_shared": false
+    },
+    {
+      "id": "06",
+      "object": "SCREEN_06 | Upper dotted return end",
+      "label": "Upper dotted return end",
+      "material": "Roof media | 06 | E1",
+      "mode": "movie",
+      "media": "//../../Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED E/E1.mov",
+      "material_shared": false
+    },
+    {
+      "id": "R05",
+      "object": "SCREEN_R05 | Upper dotted merchandise long face",
+      "label": "Upper dotted merchandise long face",
+      "material": "Roof media | R05 | E2",
+      "mode": "movie",
+      "media": "//../../Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED E/E2.mov",
+      "material_shared": false
+    },
+    {
+      "id": "R06",
+      "object": "SCREEN_R06 | Upper dotted bar-side return",
+      "label": "Upper dotted bar-side return",
+      "material": "Roof media | R06 | E1",
+      "mode": "movie",
+      "media": "//../../Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED E/E1.mov",
+      "material_shared": false
+    },
+    {
+      "id": "08",
+      "object": "SCREEN_08 | Red block animated return",
+      "label": "Red animated end",
+      "material": "Roof media | 08 | D2",
+      "mode": "movie",
+      "media": "//../../Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED D/D2.mov",
+      "material_shared": false
+    },
+    {
+      "id": "R07",
+      "object": "SCREEN_R07 | Red animated long face",
+      "label": "Red animated long face",
+      "material": "Roof media | R07 | D1",
+      "mode": "movie",
+      "media": "//../../Ref Material/LED For Booth + Mesh Screen (BlackHat USA 2026)/LED For Booth/LED D/D1.mov",
+      "material_shared": false
+    }
+  ],
+  "note": "Current object names are authoritative; user-created duplicate legacy IDs are retained."
+}

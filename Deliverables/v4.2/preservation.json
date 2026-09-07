@@ -1,0 +1,70 @@
+{
+  "source": "Deliverables/v4.1/Gambit_BlackHat_v4.1.blend",
+  "source_sha256": "956d301c7465cccf0a61900ec13f811931c9f9702fb347286dca2f75fb7ad344",
+  "preserved_non_roof_objects": 268,
+  "non_roof_unchanged": true,
+  "all_roof_materials_and_media_timing_unchanged": true,
+  "roof_media_baseline": {
+    "SCREEN_02 | Top opposite end": "550c72e2f8aab02064aa70d0c96fc530e4bacfa4bf50977535aba2c577ccd38f",
+    "SCREEN_R01 | Top blue logo end": "64e678566e9af9c6e89a0a79d2a3f8cf8eb69f55af1286c7f6871ca90e8ab4f3",
+    "SCREEN_04 | Upper dotted long face - bar": "09abc39c9516545a521cf179141b523dfddc765000b78160eb6b2504e27d6673",
+    "SCREEN_06 | Upper dotted return end": "c07e1870b9ab4ac291b4be460e6ff6ceaf3a9236a00440cd9a0e20aa14a2d191",
+    "SCREEN_R05 | Upper dotted merchandise long face": "569753fbdca3dfa0bbf29cb2d4a4b39fa180dd8eff7d01d975aa73919042fb69",
+    "SCREEN_R06 | Upper dotted bar-side return": "63b81629ea69137620aa74ab4e951ba2ca3c6a599ebab0e49a1686987fc4c0c6",
+    "SCREEN_08 | Red block animated return": "629d0d775607f3389cf125b57cd273fc9338af29e1ec9eea92e9e65781bf305e",
+    "SCREEN_R07 | Red animated long face": "8da0a72d159ce31d348ae9fd43f824c5d2842e82311bad63abdba2ea4c5f1432"
+  },
+  "individual_roof_poses": {
+    "L1B1": [
+      -0.23,
+      -0.29,
+      0
+    ],
+    "L1B2": [
+      0.06,
+      0.28,
+      0
+    ],
+    "L2B1": [
+      -0.3,
+      -0.39,
+      20
+    ],
+    "L2B2": [
+      0.27,
+      0.12,
+      20
+    ],
+    "L3B1": [
+      0.02,
+      -0.37,
+      -32
+    ],
+    "L3B2": [
+      0.36,
+      0.25,
+      -32
+    ],
+    "L4B1": [
+      -0.35,
+      -0.24,
+      8
+    ],
+    "L4B2": [
+      0.25,
+      0.38,
+      8
+    ],
+    "L5B1": [
+      0.44,
+      0.34,
+      -5
+    ],
+    "L5B2": [
+      -0.45,
+      -0.3,
+      8
+    ]
+  },
+  "note": "Photo-based fit; rotations/offsets are inferred, not measured. Red D2 end moved to +X local face. Existing static/loop choices and scene fps retained."
+}

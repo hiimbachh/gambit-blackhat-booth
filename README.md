@@ -1,3 +1,9 @@
+# Current deliverable: v4.2
+
+Open Deliverables/v4.2/Gambit_BlackHat_v4.2.blend. The roof now uses individual bar directions and offsets. Your accepted booth and verified media timing are preserved. Read [HANDOFF.md](HANDOFF.md) for current status.
+
+---
+
 # Current deliverable: v4.1
 
 Open Deliverables/v4.1/Gambit_BlackHat_v4.1.blend. This preserves the user-edited v4 booth and adds the central roof. See [HANDOFF.md](HANDOFF.md) for current status and [docs/ASSETS.md](docs/ASSETS.md) for materials, clip timing and folder organization. Earlier version instructions below are historical.

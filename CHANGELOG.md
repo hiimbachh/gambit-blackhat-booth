@@ -54,3 +54,10 @@
 - Archived generated conversions, local tools, scratch outputs and automatic backups; original references and prior deliverables retained.
 - New roof visual acceptance pending.
 - Sync completed: content commit 9e62970 and all 8 LFS objects (18 MB) uploaded successfully; confirmation recorded in handoff.
+
+## 2026-09-08 - V4.2 roof direction correction
+- User rejected the repeated regular roof layout and requested reference-specific directions.
+- Individually turned/offset the roof bars and moved the red square LED to the projecting end.
+- Preserved all 268 non-roof objects and all eight roof material/media/timing fingerprints.
+- Passed reopened-scene preservation, media, timing and motion checks; rendered three reference-angle views.
+- Roof visual acceptance pending; plan angles and hidden offsets remain photo-based estimates.

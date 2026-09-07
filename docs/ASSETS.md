@@ -1,3 +1,9 @@
+# V4.2 update
+
+Current scene: Deliverables/v4.2/Gambit_BlackHat_v4.2.blend. Its ssets.json and screens.json remain authoritative. The roof bars have individual plan rotations and offsets; all materials and full-length playback settings are unchanged from v4.1. The v4.1 loop tests below remain valid, and v4.2 validates the unchanged media fingerprints.
+
+---
+
 # Materials, media and project folders
 
 ## Current scene

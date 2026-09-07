@@ -1,3 +1,17 @@
+# Current revision - 2026-09-08: v4.2 roof direction correction
+
+Active file: Deliverables/v4.2/Gambit_BlackHat_v4.2.blend. V4 and v4.1 remain intact.
+
+The user rejected v4.1's roof arrangement as too organized and provided a close-up from IMG_2990, asking for careful reconstruction of orientation and direction. This is a correction to the roof only; the accepted booth and all verified clip timing remain protected. The close-up is preserved as Ref Material/Feedback/2026-09-08/04_Roof_direction_correction.png.
+
+V4.2 individually positions all ten roof bars: the lower pink pair projects unevenly, the red pair turns toward the reference viewing side, the rear dotted bar sits farther back, and the two blue bars have a pronounced fore/aft stagger. The square red animation is moved to its projecting end. Blocks remain level; inferred plan rotations and offsets are recorded explicitly in preservation.json and scripts/revise_v42.py. These are photo-based fits, not measured angles or a claim of exact hidden geometry.
+
+All 268 non-roof objects retain their geometry, transforms, materials and playback. All eight roof material/shader/movie fingerprints also match v4.1, including full 602/420-frame playback at 60 fps. Reopened-scene validation passed for media paths, timing, parenting, preservation and optional motion. V4.1's rendered loop-boundary checks remain applicable because those material and timing settings are unchanged. Three perspective previews use low reference-like viewpoints rather than the earlier elevated orthographic view. User visual acceptance of the new structure is pending.
+
+Reproduce with scripts/revise_v42.py against saved v4.1; this replaces v4.2 outputs, so preserve future manual edits first. Validate with scripts/validate_v42.py. Previous cleanup and asset organization remain in effect; no further files or reference media were removed. Continue the previously authorized GitHub/handoff workflow for this correction.
+
+---
+
 # Current revision - 2026-09-08: v4.1 roof addition and asset cleanup
 
 Active file: Deliverables/v4.1/Gambit_BlackHat_v4.1.blend. The user-edited v4 is preserved unchanged in Deliverables/v4. Historical sections below are superseded where they conflict.
