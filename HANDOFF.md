@@ -14,7 +14,7 @@ Validation: browser loaded 261 meshes, 13 video materials and eight roof blocks;
 
 Read docs/3D_TO_HTML_TECHNICAL_GUIDE.md for GLB transfer limits, the HTML/JavaScript control pipeline, materials, UVs, video timing, parameters, files, local startup, future deployment and extension ideas. Three.js 0.180.0 is vendored with its license, so the app needs no CDN or build step. User visual acceptance of the web viewer is pending. Next: review viewer; choose hosting only when ready.
 
-GitHub sync: pending final commit/push verification.
+GitHub sync completed: content commit eb124e1 pushed to origin/main, including all 11 LFS objects (27 MB). This confirmation entry records the successful upload.
 
 ---
 
