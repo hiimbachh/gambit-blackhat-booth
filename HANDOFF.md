@@ -2,6 +2,8 @@
 
 Active file: Deliverables/v4.2/Gambit_BlackHat_v4.2.blend. V4 and v4.1 remain intact.
 
+Sync confirmed: content commit 5002ad4 is on GitHub main and matched local HEAD. The correction, previews, reference close-up and validation reports are uploaded. This follow-up documentation entry records completion.
+
 The user rejected v4.1's roof arrangement as too organized and provided a close-up from IMG_2990, asking for careful reconstruction of orientation and direction. This is a correction to the roof only; the accepted booth and all verified clip timing remain protected. The close-up is preserved as Ref Material/Feedback/2026-09-08/04_Roof_direction_correction.png.
 
 V4.2 individually positions all ten roof bars: the lower pink pair projects unevenly, the red pair turns toward the reference viewing side, the rear dotted bar sits farther back, and the two blue bars have a pronounced fore/aft stagger. The square red animation is moved to its projecting end. Blocks remain level; inferred plan rotations and offsets are recorded explicitly in preservation.json and scripts/revise_v42.py. These are photo-based fits, not measured angles or a claim of exact hidden geometry.
@@ -130,4 +132,5 @@ Git LFS is required for Blender, images, PDFs and movie files. The supplied refe
 Private repository created: https://github.com/hiimbachh/gambit-blackhat-booth
 
 Initial scene commit 64863dcd7e61af3a1f5be388bc62f18637c885f2 was verified against remote main. Git LFS reported successful upload of all 53 unique objects (approximately 1.8 GB); all 47 supplied reference files are tracked. Local main tracks origin/main. This log update follows the successful upload. No new-machine clone has yet been tested.
+
 

@@ -61,3 +61,4 @@
 - Preserved all 268 non-roof objects and all eight roof material/media/timing fingerprints.
 - Passed reopened-scene preservation, media, timing and motion checks; rendered three reference-angle views.
 - Roof visual acceptance pending; plan angles and hidden offsets remain photo-based estimates.
+- V4.2 upload confirmed: content commit 5002ad4 matched GitHub main; local working tree was clean.
