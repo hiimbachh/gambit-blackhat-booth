@@ -1,3 +1,17 @@
+# Current session - 2026-09-08: accepted final model and presentation renders
+
+The user made final manual changes to v4.2 and explicitly said the model is now okay. This supersedes the earlier pending visual acceptance of the roof. The accepted working model is Deliverables/v4.2/Gambit_BlackHat_v4.2.blend, SHA-256 b8f6ea07020c4ddb88064893a9c9d11f952de8a0eb651a1f1983812db8240579, already synchronized in user commit 7fea08a. Do not regenerate it with the old revision scripts: that would discard the user's final adjustments.
+
+The user requested a video showing the booth from several angles, without complicated movement, each held long enough for the screen animations, at least 60 fps, plus still images, then the usual GitHub sync and handoff. Implementation choices are four locked camera views, 13 seconds each, simple cuts, a silent 52-second 1920 x 1080 / 60 fps MP4, and four matching 3840 x 2160 PNG stills. The views cover the monitor/stations, flower/bar, merchandise/service, and roof detail. The user has accepted the model, but has not yet reviewed the rendered presentation.
+
+The separate Deliverables/presentation/Gambit_Presentation.blend adds only presentation cameras and render settings. Reopened-scene checks confirm that all 282 original object fingerprints, including transforms, geometry, material assignments and movie playback settings, are unchanged; every linked media path resolves. Original static panels remain static. The presentation timeline is 1-3120 at exactly 60 fps, with camera cuts at 1, 781, 1561 and 2341. Each 780-frame hold exceeds the longest existing configured clip loop. No source media or playback settings were changed.
+
+Rendering uses Cycles with NVIDIA OptiX GPU denoising, 24 samples for the video and 64 samples for the stills. scripts/prepare_presentation.py builds the camera copy; scripts/render_presentation.py renders each shot; scripts/finish_presentation.py concatenates and verifies the MP4; scripts/validate_presentation.py checks scene preservation. Preserve edits before rerunning preparation. The presentation README and manifests explain reproduction and outputs. Existing cleanup archives, original references, earlier versions and deferred real-time/web plans are retained.
+
+Paused explicitly by the user during rendering. All four 4K stills and the first three 13-second clips are complete. The fourth roof clip was interrupted; restart that shot with render_presentation.py (completed .done shots are skipped). Final assembly, final validation and GitHub sync are pending. See Deliverables/presentation/PAUSED.md. The user asked whether cameras/movement are saved: four fixed cameras and timed cuts are saved; no camera travel is animated.
+
+---
+
 # Current revision - 2026-09-08: v4.2 roof direction correction
 
 Active file: Deliverables/v4.2/Gambit_BlackHat_v4.2.blend. V4 and v4.1 remain intact.
@@ -132,5 +146,6 @@ Git LFS is required for Blender, images, PDFs and movie files. The supplied refe
 Private repository created: https://github.com/hiimbachh/gambit-blackhat-booth
 
 Initial scene commit 64863dcd7e61af3a1f5be388bc62f18637c885f2 was verified against remote main. Git LFS reported successful upload of all 53 unique objects (approximately 1.8 GB); all 47 supplied reference files are tracked. Local main tracks origin/main. This log update follows the successful upload. No new-machine clone has yet been tested.
+
 
 

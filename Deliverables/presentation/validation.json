@@ -1,0 +1,25 @@
+{
+  "original_objects": 282,
+  "changed_original_objects": [],
+  "missing_media": [],
+  "fps": 60.0,
+  "frames": 3120,
+  "camera_cuts": [
+    {
+      "frame": 1,
+      "camera": "PRESENTATION | 01_Monitor_and_stations"
+    },
+    {
+      "frame": 781,
+      "camera": "PRESENTATION | 02_Flower_and_bar"
+    },
+    {
+      "frame": 1561,
+      "camera": "PRESENTATION | 03_Merchandise_and_service"
+    },
+    {
+      "frame": 2341,
+      "camera": "PRESENTATION | 04_Roof_detail"
+    }
+  ]
+}
