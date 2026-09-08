@@ -1,0 +1,3 @@
+# Deploy-ready copies: Vercel can serve these without Git LFS hydration.
+*.glb -filter -diff -merge -text
+media/*.mp4 -filter -diff -merge -text

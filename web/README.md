@@ -6,6 +6,8 @@ Drag to orbit, scroll to zoom, right-drag to pan. Choose one of four camera view
 
 The original exported GLB is copied unchanged to booth.glb. Geometry edits are temporary browser state and do not modify the Blender or GLB file. Screen playback is restored separately from the latest Blender material mapping. No baked animation clips exist in this GLB. The browser is a real-time PBR approximation, not a Cycles render; shader nodes, exact shadows and transparent video do not transfer automatically. Current MP4 clips are opaque, muted, browser-compatible H.264 at 60 fps. No preview image exports are included.
 
-To deploy later, upload only this folder to a static web host over HTTPS. It needs no database, build step or CDN: Three.js 0.180.0 is included locally under vendor with its MIT license. Download real Git LFS files before deployment; a pointer file cannot load as a GLB/video. This session prepares and tests the local viewer; no public site is published.
+To deploy later, upload only this folder to a static web host over HTTPS. It needs no database, build step or CDN: Three.js 0.180.0 is included locally under vendor with its MIT license. The web GLB and MP4 copies are stored directly in Git so Vercel can deploy them without enabling Git LFS. Original source assets elsewhere remain in LFS. This session prepares and tests the local viewer; no public site is published.
 
 Read ../docs/3D_TO_HTML_TECHNICAL_GUIDE.md for the model pipeline and implementation details.
+
+For Vercel: Root Directory = web, Framework Preset = Other, no build command, Output Directory = . (or the default static root). Deploy the latest main commit. This web folder requires no installation or build step.

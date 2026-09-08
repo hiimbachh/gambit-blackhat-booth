@@ -69,3 +69,8 @@
 - Archived 31 unwanted image and partial video exports; kept the user MKV preview and all source assets.
 - Added the 3D-to-HTML technical guide, local launcher, vendored Three.js and validation report.
 - Offline rendering is superseded; public hosting remains a future step.
+
+## 2026-09-08 — Vercel deployment fix
+- Store deployable web GLB and nine MP4 copies directly in Git, removing the LFS hydration dependency for Vercel; original source assets remain in LFS.
+- Document Vercel static root settings; no geometry or viewer control changes.
+

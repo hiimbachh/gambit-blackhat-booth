@@ -80,7 +80,7 @@ Install Python 3 and double-click `web/START_VIEWER.bat`, or run `python web/ser
 
 To replace the model, copy a new export to `web/booth.glb`, retain compatible names and hierarchy, and reload. Update `media.json` when material names or video assignments change. Test missing-file errors, every camera, reset, wireframe restoration, video pause/resume and all parameter limits. Keep a versioned Blender source separately.
 
-For deployment, upload only `web/` to an HTTPS static host. No database or backend is required. Ensure Git LFS assets are downloaded first; GitHub raw pointer files are not usable models. Repository synchronization is not website publication. No public deployment or repository visibility change was performed in this session.
+For deployment, upload only `web/` to an HTTPS static host. No database or backend is required. The web GLB and MP4 copies now use ordinary Git storage via web/.gitattributes, so Vercel receives real binary files without LFS hydration. Source assets elsewhere still require Git LFS. Repository synchronization is not website publication. No public deployment or repository visibility change was performed in this session.
 
 Possible next steps include URL-based saved presets, object selection, constrained component dimensions, compressed geometry/textures, lazy loading of clips, and a calibrated mobile quality mode. These are future extensions, not features claimed in this version.
 

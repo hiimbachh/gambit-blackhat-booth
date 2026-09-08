@@ -1,3 +1,9 @@
+# 2026-09-08 — Vercel asset loading fix
+
+User deployed with root web and saw the generic model-loading error. Git inspection confirmed web/booth.glb and the MP4s were LFS pointers in the commit; without Vercel LFS hydration they cannot load. Added web/.gitattributes overrides and renormalized only the deployable GLB/MP4 copies into ordinary Git blobs. Original assets elsewhere remain LFS. No model or UI controls changed. Root web is correct; no build command is needed. Live URL requested for deployment verification; not yet supplied. Verify a fresh Git checkout contains glTF/MP4 binary headers rather than LFS pointers. This supersedes earlier advice to hydrate web assets during deployment.
+
+---
+
 # Current session — 2026-09-08: web viewer and export cleanup
 
 The user added a GLB export and requested an HTML viewer with parameter sliders and a wireframe/realistic toggle. They also requested removing unwanted image/video exports, keeping only their MKV preview, then GitHub sync, handoff and a technical explanation file. This supersedes the paused four-shot offline video task: do not resume rendering unless asked again.
