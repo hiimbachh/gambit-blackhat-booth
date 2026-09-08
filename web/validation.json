@@ -1,0 +1,123 @@
+{
+  "media": {
+    "clip-00.mp4": {
+      "frames": 602,
+      "fps": 60.0,
+      "duration_seconds": 10.033333333333333,
+      "constant_frame_rate": true,
+      "timescale": 15360,
+      "sample_ticks": [
+        [
+          602,
+          256
+        ]
+      ]
+    },
+    "clip-01.mp4": {
+      "frames": 602,
+      "fps": 60.0,
+      "duration_seconds": 10.033333333333333,
+      "constant_frame_rate": true,
+      "timescale": 15360,
+      "sample_ticks": [
+        [
+          602,
+          256
+        ]
+      ]
+    },
+    "clip-02.mp4": {
+      "frames": 720,
+      "fps": 60.0,
+      "duration_seconds": 12.0,
+      "constant_frame_rate": true,
+      "timescale": 15360,
+      "sample_ticks": [
+        [
+          720,
+          256
+        ]
+      ]
+    },
+    "clip-03.mp4": {
+      "frames": 720,
+      "fps": 60.0,
+      "duration_seconds": 12.0,
+      "constant_frame_rate": true,
+      "timescale": 15360,
+      "sample_ticks": [
+        [
+          720,
+          256
+        ]
+      ]
+    },
+    "clip-04.mp4": {
+      "frames": 217,
+      "fps": 60.0,
+      "duration_seconds": 3.6166666666666667,
+      "constant_frame_rate": true,
+      "timescale": 15360,
+      "sample_ticks": [
+        [
+          217,
+          256
+        ]
+      ]
+    },
+    "clip-05.mp4": {
+      "frames": 420,
+      "fps": 60.0,
+      "duration_seconds": 7.0,
+      "constant_frame_rate": true,
+      "timescale": 15360,
+      "sample_ticks": [
+        [
+          420,
+          256
+        ]
+      ]
+    },
+    "clip-06.mp4": {
+      "frames": 420,
+      "fps": 60.0,
+      "duration_seconds": 7.0,
+      "constant_frame_rate": true,
+      "timescale": 15360,
+      "sample_ticks": [
+        [
+          420,
+          256
+        ]
+      ]
+    },
+    "clip-07.mp4": {
+      "frames": 420,
+      "fps": 60.0,
+      "duration_seconds": 7.0,
+      "constant_frame_rate": true,
+      "timescale": 15360,
+      "sample_ticks": [
+        [
+          420,
+          256
+        ]
+      ]
+    },
+    "clip-08.mp4": {
+      "frames": 420,
+      "fps": 60.0,
+      "duration_seconds": 7.0,
+      "constant_frame_rate": true,
+      "timescale": 15360,
+      "sample_ticks": [
+        [
+          420,
+          256
+        ]
+      ]
+    }
+  },
+  "glb_sha256": "150b6f7d8cda61a292cb91f2491e2ea5e38c193070ce5910dd42bc6a0947d8bb",
+  "browser": "Loaded 261 meshes; 13 video materials; 8 roof nodes. Tested view buttons, wireframe, sliders, reset, play/pause, auto orbit, 390px responsive layout."
+}

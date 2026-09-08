@@ -1,3 +1,9 @@
+# Current deliverable: interactive booth viewer
+
+Open web/START_VIEWER.bat (Python 3 required). See [web/README.md](web/README.md) and [technical guide](docs/3D_TO_HTML_TECHNICAL_GUIDE.md). The MKV in Deliverables/v4.2/Render is the retained video preview. Unwanted stills and old MP4 previews are archived locally; source models and reference assets remain intact. Read HANDOFF.md for current status.
+
+---
+
 # Current deliverable: v4.2
 
 Open Deliverables/v4.2/Gambit_BlackHat_v4.2.blend. The roof now uses individual bar directions and offsets. Your accepted booth and verified media timing are preserved. Read [HANDOFF.md](HANDOFF.md) for current status.

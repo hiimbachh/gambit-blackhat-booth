@@ -1,0 +1,191 @@
+{
+  "reason": "User requested only MKV preview and no exported stills; derived screen MP4s in web/media are runtime assets, not redundant previews. Source reference images remain.",
+  "files": [
+    {
+      "source": "Deliverables/01_Hero.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/01_Hero.png",
+      "bytes": 2375757,
+      "sha256": "3596d656d3469e8d0da4d6d14f41cdb4f6004f6295d0322a607ff58c2c912f5d"
+    },
+    {
+      "source": "Deliverables/02_Bar.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/02_Bar.png",
+      "bytes": 2418051,
+      "sha256": "84209a675d242a2863255a0f71964105d5e6e6b981bc211ffbe59dfd0c7bc615"
+    },
+    {
+      "source": "Deliverables/03_Rear.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/03_Rear.png",
+      "bytes": 2390563,
+      "sha256": "2689cb52a0dc701c6130118327d7d4cf32267d8624d870c2e0b3c3f07b455cd0"
+    },
+    {
+      "source": "Deliverables/presentation/01_Monitor_and_stations.done",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/presentation/01_Monitor_and_stations.done",
+      "bytes": 39,
+      "sha256": "cacee5de76b968dc4dcae93ee6b852e1a0fba230151bcf6300743900b31638eb"
+    },
+    {
+      "source": "Deliverables/presentation/01_Monitor_and_stations.mp4",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/presentation/01_Monitor_and_stations.mp4",
+      "bytes": 3323354,
+      "sha256": "f0d5f6d5274c0e0ae99ce672df2b0cbc8ca3090737225fe2cf8633ee7fee16fa"
+    },
+    {
+      "source": "Deliverables/presentation/01_Monitor_and_stations.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/presentation/01_Monitor_and_stations.png",
+      "bytes": 8777527,
+      "sha256": "0b1d223ec2f372e36255caac2eb6c959d50ab5f7e8ed0f60691553c6d2c3d09c"
+    },
+    {
+      "source": "Deliverables/presentation/02_Flower_and_bar.done",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/presentation/02_Flower_and_bar.done",
+      "bytes": 39,
+      "sha256": "cacee5de76b968dc4dcae93ee6b852e1a0fba230151bcf6300743900b31638eb"
+    },
+    {
+      "source": "Deliverables/presentation/02_Flower_and_bar.mp4",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/presentation/02_Flower_and_bar.mp4",
+      "bytes": 3630199,
+      "sha256": "dfa3b8146e772bc8d640a6fa95f9ccdf8e064848857ec5fecd1592b71eae6a5d"
+    },
+    {
+      "source": "Deliverables/presentation/02_Flower_and_bar.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/presentation/02_Flower_and_bar.png",
+      "bytes": 7289225,
+      "sha256": "38aaba40edb2ab85574e95e36c19e6d888128d057fc1307e26a9b9e65ff72912"
+    },
+    {
+      "source": "Deliverables/presentation/03_Merchandise_and_service.done",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/presentation/03_Merchandise_and_service.done",
+      "bytes": 39,
+      "sha256": "cacee5de76b968dc4dcae93ee6b852e1a0fba230151bcf6300743900b31638eb"
+    },
+    {
+      "source": "Deliverables/presentation/03_Merchandise_and_service.mp4",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/presentation/03_Merchandise_and_service.mp4",
+      "bytes": 3500813,
+      "sha256": "e4e33036f4b78e4edde38f4ffd96d6076de999e052059d7a06836596adbb7b8c"
+    },
+    {
+      "source": "Deliverables/presentation/03_Merchandise_and_service.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/presentation/03_Merchandise_and_service.png",
+      "bytes": 7197444,
+      "sha256": "d7da24b2842796701f86e88faa3a5502c4f354b965d558264ac97462fa788f61"
+    },
+    {
+      "source": "Deliverables/presentation/04_Roof_detail.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/presentation/04_Roof_detail.png",
+      "bytes": 7113271,
+      "sha256": "502379983e16c608c70a0ee2affc072499c1e4922a28673c21d9057c24ecbb9c"
+    },
+    {
+      "source": "Deliverables/v2/01_Hero.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v2/01_Hero.png",
+      "bytes": 2289735,
+      "sha256": "41e3a95bfd4a3cd1c90949e0ac1ca0ab8173a7a210e525d70b0c911e4e7df2a8"
+    },
+    {
+      "source": "Deliverables/v2/02_Flower_Bar.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v2/02_Flower_Bar.png",
+      "bytes": 2303719,
+      "sha256": "723fe25581e66b3f638ee111f2b9b28484a2a7b824352dcaf78b0859700e52c1"
+    },
+    {
+      "source": "Deliverables/v2/03_Merchandise.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v2/03_Merchandise.png",
+      "bytes": 2295049,
+      "sha256": "9402d3dd0179e1cc0d45a39ce975d305b7073ed1b8b82f2d1dc54e09805d36f4"
+    },
+    {
+      "source": "Deliverables/v2/04_Plan.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v2/04_Plan.png",
+      "bytes": 2036986,
+      "sha256": "07d92f337e117a56b245ff2d32b859a1a8aff6ea46c878ae9379284e8495ffaa"
+    },
+    {
+      "source": "Deliverables/v3/01_Merchandise_and_bar.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v3/01_Merchandise_and_bar.png",
+      "bytes": 1958564,
+      "sha256": "3634e929ee6f0cc82f8df1820cb32307770e75cdf843e0b274ed3f6091246140"
+    },
+    {
+      "source": "Deliverables/v3/02_Flower_and_blocks.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v3/02_Flower_and_blocks.png",
+      "bytes": 1936530,
+      "sha256": "5c913f4fb5509d213d0ce59edd4113e8e3e13a3502c17713316771d6d641af55"
+    },
+    {
+      "source": "Deliverables/v3/03_Plan.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v3/03_Plan.png",
+      "bytes": 1663139,
+      "sha256": "c43e62d4b8498e05a50886d682d1620c234641b2d44d2c9281fd56451290b447"
+    },
+    {
+      "source": "Deliverables/v4/01_Station_detail.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v4/01_Station_detail.png",
+      "bytes": 1466751,
+      "sha256": "572603a8bebcb6d7e21b2279c2ea8e4f5f83f79651ee242f3383019719c4e1cf"
+    },
+    {
+      "source": "Deliverables/v4/02_Both_stations.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v4/02_Both_stations.png",
+      "bytes": 1421326,
+      "sha256": "d7d01e54895f4681c9934c41b19a01d4d52eda8c562cacd89236ae10b34b8ea7"
+    },
+    {
+      "source": "Deliverables/v4.1/01_Roof_merchandise.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v4.1/01_Roof_merchandise.png",
+      "bytes": 2143595,
+      "sha256": "b9aaae8d95c9af4ac6d8d317933013bbce0962ab2bc039394ba8e174080623ab"
+    },
+    {
+      "source": "Deliverables/v4.1/02_Roof_flower.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v4.1/02_Roof_flower.png",
+      "bytes": 2127947,
+      "sha256": "d9f7ed19ee6c48906a2d8782335501360d49e686e5a3260c3be5dccf2f8372a1"
+    },
+    {
+      "source": "Deliverables/v4.1/03_Overall.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v4.1/03_Overall.png",
+      "bytes": 2051735,
+      "sha256": "3f3ce109c5efc2bc6ce68cbfa0194a545a483612e6c340797a57aa32b908b2f3"
+    },
+    {
+      "source": "Deliverables/v4.2/01_Monitor_side_reference.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v4.2/01_Monitor_side_reference.png",
+      "bytes": 1659032,
+      "sha256": "ecca8d3ac6d995215c0f85547b8dbecbca79fdf1285572e91c9332ae6a6ed555"
+    },
+    {
+      "source": "Deliverables/v4.2/02_Merchandise_side_reference.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v4.2/02_Merchandise_side_reference.png",
+      "bytes": 1606683,
+      "sha256": "cd166824339da4aa3acd216ad2c7bfbbeb712db7702be76310d705e170dc985f"
+    },
+    {
+      "source": "Deliverables/v4.2/03_Flower_side_reference.png",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v4.2/03_Flower_side_reference.png",
+      "bytes": 1586318,
+      "sha256": "7b805da1cc24d7436f5f77c1639d089497ad36af3dd6d3ef06b0de9e1737d778"
+    },
+    {
+      "source": "Deliverables/v4.2/1.jpg",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v4.2/1.jpg",
+      "bytes": 54819,
+      "sha256": "fdd0c1ceae6752131462e48c34bac27649b2fdd902069274f1bac51a03e52979"
+    },
+    {
+      "source": "Deliverables/v4.2/final_render.mp4",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v4.2/final_render.mp4",
+      "bytes": 112024,
+      "sha256": "767131e3c63bed3ff5f0f56d81895a2f69b576502d883dceccaa19cc00640695"
+    },
+    {
+      "source": "Deliverables/v4.2/final_render.mp4.jpg",
+      "archive": ".local/cleanup-web-2026-09-08/Deliverables/v4.2/final_render.mp4.jpg",
+      "bytes": 49586,
+      "sha256": "ee3307a146a1675dd481c4a56f52c53e4d5bc2e5778f34d24c6b11ef63baa8e1"
+    }
+  ]
+}

@@ -62,3 +62,10 @@
 - Passed reopened-scene preservation, media, timing and motion checks; rendered three reference-angle views.
 - Roof visual acceptance pending; plan angles and hidden offsets remain photo-based estimates.
 - V4.2 upload confirmed: content commit 5002ad4 matched GitHub main; local working tree was clean.
+
+## 2026-09-08 — HTML booth explorer
+- Added tested local GLB viewer with orbit, camera views, wireframe, lighting/roof/lens sliders and reset.
+- Connected 13 video materials to nine verified browser MP4 clips, preserving Blender frame counts at 60 fps.
+- Archived 31 unwanted image and partial video exports; kept the user MKV preview and all source assets.
+- Added the 3D-to-HTML technical guide, local launcher, vendored Three.js and validation report.
+- Offline rendering is superseded; public hosting remains a future step.

@@ -12,3 +12,4 @@
 *.py text eol=lf
 *.md text eol=lf
 *.json text eol=lf
+*.mkv filter=lfs diff=lfs merge=lfs -text

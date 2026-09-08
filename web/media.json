@@ -1,0 +1,67 @@
+{
+  "MEDIA_12": {
+    "url": "media/clip-00.mp4",
+    "frames": 602,
+    "start": 1
+  },
+  "MEDIA_13": {
+    "url": "media/clip-01.mp4",
+    "frames": 602,
+    "start": 1
+  },
+  "MEDIA_14": {
+    "url": "media/clip-02.mp4",
+    "frames": 720,
+    "start": 1
+  },
+  "MEDIA_15": {
+    "url": "media/clip-03.mp4",
+    "frames": 720,
+    "start": 1
+  },
+  "MEDIA_D1FP": {
+    "url": "media/clip-04.mp4",
+    "frames": 217,
+    "start": 1
+  },
+  "MEDIA_D1RP": {
+    "url": "media/clip-04.mp4",
+    "frames": 217,
+    "start": 1
+  },
+  "MEDIA_D2FP": {
+    "url": "media/clip-04.mp4",
+    "frames": 217,
+    "start": 1
+  },
+  "MEDIA_D2RP": {
+    "url": "media/clip-04.mp4",
+    "frames": 217,
+    "start": 1
+  },
+  "Roof media | 06 | E1": {
+    "url": "media/clip-05.mp4",
+    "frames": 420,
+    "start": 1
+  },
+  "Roof media | 08 | D2": {
+    "url": "media/clip-06.mp4",
+    "frames": 420,
+    "start": 1
+  },
+  "Roof media | R01 | A1": {
+    "url": "media/clip-01.mp4",
+    "frames": 602,
+    "start": 1
+  },
+  "Roof media | R05 | E2": {
+    "url": "media/clip-07.mp4",
+    "frames": 420,
+    "start": 1
+  },
+  "Roof media | R07 | D1": {
+    "url": "media/clip-08.mp4",
+    "frames": 420,
+    "start": 1
+  }
+}

@@ -1,3 +1,23 @@
+# Current session — 2026-09-08: web viewer and export cleanup
+
+The user added a GLB export and requested an HTML viewer with parameter sliders and a wireframe/realistic toggle. They also requested removing unwanted image/video exports, keeping only their MKV preview, then GitHub sync, handoff and a technical explanation file. This supersedes the paused four-shot offline video task: do not resume rendering unless asked again.
+
+Open web/START_VIEWER.bat with Python 3 installed, or run python web/serve.py. The viewer is at http://127.0.0.1:8765. The original GLB remains in Deliverables/Export/Gambit_BlackHat_v4.2.glb and is copied unchanged to web/booth.glb. No Blender geometry/material changes were made. The HTML app adds runtime controls, not permanent changes to the model.
+
+Implemented orbit/zoom/pan, four view buttons, wireframe with original-material restoration, optional auto orbit, screen play/pause, exposure, studio-light strength and direction, roof-tier spacing, field of view and reset. Eight exported roof nodes participate in spacing; their screen children follow. There are no baked animation clips in the supplied GLB. Realistic mode is real-time PBR lighting, not an exact Cycles match. The local website has been tested; no public deployment or visibility change was requested/performed.
+
+Restored 13 material video bindings using nine derived H.264 MP4s. All have validated 60 fps and the existing Blender configured frame counts (602, 720, 420, 217). The mesh source is native 24 fps; its web copy explicitly interprets all 217 frames at 60 fps to match Blender's frame-per-timeline-frame behavior, retaining every frame. Runtime videos are opaque; alpha/transparency and frame-locked multi-screen synchronization would need further work. Static materials stay static. Original MOV references remain untouched.
+
+Cleanup moved 31 unwanted Deliverables PNG/JPG/MP4/.done files into .local/cleanup-web-2026-09-08, with SHA-256 paths recorded in docs/cleanup-web-manifest.json. Original reference/texture images are retained. The sole preview video remains Deliverables/v4.2/Render/01_Hero.png0001-0289.mkv. web/media MP4s are necessary live screen textures, not redundant preview exports. Historical handoff claims about stills/partial MP4s in active folders are superseded by this cleanup; archived files are local and recoverable, and tracked history remains in Git.
+
+Validation: browser loaded 261 meshes, 13 video materials and eight roof blocks; all four camera buttons, wireframe, five sliders, auto orbit, play/pause and reset exercised; narrow layout checked at 390 px without horizontal overflow; browser error log empty. web/validation.json records video counts/fps and GLB hash. No exported screenshots added, as requested.
+
+Read docs/3D_TO_HTML_TECHNICAL_GUIDE.md for GLB transfer limits, the HTML/JavaScript control pipeline, materials, UVs, video timing, parameters, files, local startup, future deployment and extension ideas. Three.js 0.180.0 is vendored with its license, so the app needs no CDN or build step. User visual acceptance of the web viewer is pending. Next: review viewer; choose hosting only when ready.
+
+GitHub sync: pending final commit/push verification.
+
+---
+
 # Current session - 2026-09-08: accepted final model and presentation renders
 
 The user made final manual changes to v4.2 and explicitly said the model is now okay. This supersedes the earlier pending visual acceptance of the roof. The accepted working model is Deliverables/v4.2/Gambit_BlackHat_v4.2.blend, SHA-256 b8f6ea07020c4ddb88064893a9c9d11f952de8a0eb651a1f1983812db8240579, already synchronized in user commit 7fea08a. Do not regenerate it with the old revision scripts: that would discard the user's final adjustments.
@@ -146,6 +166,3 @@ Git LFS is required for Blender, images, PDFs and movie files. The supplied refe
 Private repository created: https://github.com/hiimbachh/gambit-blackhat-booth
 
 Initial scene commit 64863dcd7e61af3a1f5be388bc62f18637c885f2 was verified against remote main. Git LFS reported successful upload of all 53 unique objects (approximately 1.8 GB); all 47 supplied reference files are tracked. Local main tracks origin/main. This log update follows the successful upload. No new-machine clone has yet been tested.
-
-
-
